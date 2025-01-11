@@ -1,0 +1,7 @@
+rootProject.name = 'StudentCard'
+include 'AuthMicroService'
+include 'UserMicroService'
+include 'CardMicroService'
+include 'MailService'
+include 'ApiGatewayService'
+
